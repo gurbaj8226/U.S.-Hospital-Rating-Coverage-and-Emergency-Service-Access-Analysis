@@ -1,5 +1,6 @@
 .env
 data/
+Hospital_General_Information (1).csv
 output/
 .ipynb_checkpoints/
 __pycache__/
