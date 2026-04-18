@@ -1,0 +1,47 @@
+hospital_type,hospital_ownership,total_hospitals,hospitals_with_emergency_services,hospitals_without_emergency_services,percent_with_emergency_services,percent_without_emergency_services
+Psychiatric,Physician,2,0,2,0.00,100.00
+Long-term,Proprietary,2,0,2,0.00,100.00
+Psychiatric,"Government - Hospital District or Authority",2,0,2,0.00,100.00
+Long-term,"Voluntary non-profit - Church",1,0,1,0.00,100.00
+Childrens,"Government - Hospital District or Authority",1,0,1,0.00,100.00
+Long-term,"Voluntary non-profit - Private",1,0,1,0.00,100.00
+Psychiatric,"Voluntary non-profit - Private",93,10,83,10.75,89.25
+Psychiatric,Proprietary,340,38,302,11.18,88.82
+Psychiatric,"Government - State",144,21,123,14.58,85.42
+Psychiatric,"Voluntary non-profit - Other",17,3,14,17.65,82.35
+Psychiatric,"Voluntary non-profit - Church",8,2,6,25.00,75.00
+Childrens,Proprietary,7,2,5,28.57,71.43
+Psychiatric,"Government - Local",18,6,12,33.33,66.67
+Psychiatric,"Government - Federal",9,3,6,33.33,66.67
+"Acute Care Hospitals",Physician,70,35,35,50.00,50.00
+Childrens,"Voluntary non-profit - Other",12,6,6,50.00,50.00
+Childrens,"Voluntary non-profit - Private",70,44,26,62.86,37.14
+Childrens,"Government - State",3,2,1,66.67,33.33
+"Acute Care Hospitals","Government - Federal",25,19,6,76.00,24.00
+"Acute Care Hospitals","Government - State",51,43,8,84.31,15.69
+"Acute Care - Veterans Administration","Veterans Health Administration",132,112,20,84.85,15.15
+"Acute Care Hospitals","Voluntary non-profit - Other",253,216,37,85.38,14.62
+"Acute Care Hospitals",Tribal,7,6,1,85.71,14.29
+"Critical Access Hospitals",Tribal,8,7,1,87.50,12.50
+"Acute Care Hospitals",Proprietary,651,577,74,88.63,11.37
+"Critical Access Hospitals","Government - Federal",9,8,1,88.89,11.11
+"Acute Care Hospitals","Voluntary non-profit - Church",206,184,22,89.32,10.68
+"Acute Care Hospitals","Government - Local",140,131,9,93.57,6.43
+"Acute Care Hospitals","Government - Hospital District or Authority",228,214,14,93.86,6.14
+"Critical Access Hospitals","Voluntary non-profit - Other",71,67,4,94.37,5.63
+"Acute Care Hospitals","Voluntary non-profit - Private",1485,1417,68,95.42,4.58
+"Critical Access Hospitals","Government - Hospital District or Authority",281,272,9,96.80,3.20
+"Acute Care - Department of Defense","Department of Defense",32,31,1,96.88,3.13
+"Critical Access Hospitals","Government - Local",228,222,6,97.37,2.63
+"Critical Access Hospitals","Voluntary non-profit - Private",648,632,16,97.53,2.47
+"Critical Access Hospitals","Voluntary non-profit - Church",54,53,1,98.15,1.85
+"Critical Access Hospitals",Proprietary,62,61,1,98.39,1.61
+"Rural Emergency Hospital","Government - Local",15,15,0,100.00,0.00
+"Critical Access Hospitals","Government - State",11,11,0,100.00,0.00
+"Rural Emergency Hospital","Government - Hospital District or Authority",7,7,0,100.00,0.00
+"Rural Emergency Hospital","Voluntary non-profit - Private",7,7,0,100.00,0.00
+"Rural Emergency Hospital",Proprietary,7,7,0,100.00,0.00
+"Critical Access Hospitals",Physician,4,4,0,100.00,0.00
+"Rural Emergency Hospital","Voluntary non-profit - Other",2,2,0,100.00,0.00
+"Rural Emergency Hospital","Voluntary non-profit - Church",1,1,0,100.00,0.00
+Childrens,"Voluntary non-profit - Church",1,1,0,100.00,0.00
