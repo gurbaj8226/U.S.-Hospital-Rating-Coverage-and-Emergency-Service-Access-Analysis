@@ -1,0 +1,9 @@
+hospital_type,total_hospitals,rated_hospitals,unrated_hospitals,percent_rated,percent_unrated
+Psychiatric,633,0,633,0.00,100.00
+Childrens,94,0,94,0.00,100.00
+"Rural Emergency Hospital",39,0,39,0.00,100.00
+"Acute Care - Department of Defense",32,0,32,0.00,100.00
+Long-term,4,0,4,0.00,100.00
+"Critical Access Hospitals",1376,213,1163,15.00,85.00
+"Acute Care Hospitals",3116,2540,576,82.00,18.00
+"Acute Care - Veterans Administration",132,113,19,86.00,14.00
