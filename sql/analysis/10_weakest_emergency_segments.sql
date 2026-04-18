@@ -22,7 +22,7 @@
 --   Results are sorted by highest percent_without_
 --   emergency_services to highlight the weakest
 --   meaningful segments.
--- ============================================
+-- =============================================
 
 SELECT hospital_type,
 	   hospital_ownership,
