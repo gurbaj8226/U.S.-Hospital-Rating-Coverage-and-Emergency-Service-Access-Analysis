@@ -1,0 +1,13 @@
+hospital_ownership,total_hospitals,hospitals_with_emergency_services,hospitals_without_emergency_services,percent_with_emergency_services,percent_without_emergency_services
+"Government - State",209,77,132,36.84,63.16
+Physician,76,39,37,51.32,48.68
+Proprietary,1069,685,384,64.08,35.92
+"Government - Federal",43,30,13,69.77,30.23
+"Voluntary non-profit - Other",355,294,61,82.82,17.18
+"Veterans Health Administration",132,112,20,84.85,15.15
+Tribal,15,13,2,86.67,13.33
+"Voluntary non-profit - Church",271,241,30,88.93,11.07
+"Voluntary non-profit - Private",2304,2110,194,91.58,8.42
+"Government - Local",401,374,27,93.27,6.73
+"Government - Hospital District or Authority",519,493,26,94.99,5.01
+"Department of Defense",32,31,1,96.88,3.13
