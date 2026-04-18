@@ -1,0 +1,13 @@
+hospital_ownership,total_hospitals,rated_hospitals,unrated_hospitals,percent_rated,percent_unrated
+"Department of Defense",32,0,32,0.00,100.00
+Tribal,15,1,14,7.00,93.00
+"Government - State",209,36,173,17.00,83.00
+"Government - Federal",43,8,35,19.00,81.00
+Physician,76,19,57,25.00,75.00
+"Government - Hospital District or Authority",519,180,339,35.00,65.00
+"Government - Local",401,147,254,37.00,63.00
+Proprietary,1069,472,597,44.00,56.00
+"Voluntary non-profit - Private",2304,1452,852,63.00,37.00
+"Voluntary non-profit - Other",355,234,121,66.00,34.00
+"Voluntary non-profit - Church",271,204,67,75.00,25.00
+"Veterans Health Administration",132,113,19,86.00,14.00
