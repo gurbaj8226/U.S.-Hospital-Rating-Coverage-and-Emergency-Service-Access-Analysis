@@ -129,40 +129,67 @@ A derived field (`rating_available`) was created to distinguish between rated an
 ## Repository Structure
 
 sql/
+
 ├── 01_coverage_baseline.sql
+
 ├── 02_state_rating_coverage.sql
+
 ├── 03_type_rating_coverage.sql
+
 ├── 04_ownership_rating_coverage.sql
+
 ├── 05_emergency_baseline.sql
+
 ├── 06_state_emergency_coverage.sql
+
 ├── 07_rating_status_emergency_comparison.sql
+
 ├── 08_ownership_emergency_coverage.sql
+
 ├── 09_type_ownership_emergency_matrix.sql
+
 ├── 10_weakest_emergency_segments.sql
 
 outputs/
+
 ├── q1_coverage_summary.csv
+
 ├── q2_state_rating_coverage.csv
+
 ├── q3_type_rating_coverage.csv
+
 ├── q4_ownership_rating_coverage.csv
+
 ├── q5_emergency_baseline.csv
+
 ├── q6_state_emergency_coverage.csv
+
 ├── q7_rating_status_emergency_comparison.csv
+
 ├── q8_ownership_emergency_coverage.csv
+
 ├── q9_type_ownership_emergency_matrix.csv
+
 ├── q10_weakest_emergency_segments.csv
 
 visuals/
+
 ├── dashboard_1_rating_coverage.png
+
 ├── dashboard_2_emergency_access.png
+
 ├── dashboard_3_geographic_variation.png
 
 notebooks/
+
 ├── data_cleaning.ipynb
 
 src/
+
 ├── __init__.py
+
 ├── config.py
+
 ├── export_to_mysql.py
 
 
