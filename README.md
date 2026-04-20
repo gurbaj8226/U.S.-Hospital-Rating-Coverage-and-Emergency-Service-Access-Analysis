@@ -4,6 +4,7 @@ This project analyzes the CMS Hospital General Information dataset to examine **
 
 Rather than ranking hospital quality, this project focuses on **where ratings are missing and how access to emergency services differs across the U.S. healthcare system**.
 
+Tableau Link: https://public.tableau.com/app/profile/gurbaj.singh6229/viz/U_S_HospitalRatingCoverageandEmergencyServiceAccessAnalysis/RatingCoverageGap#1
 ---
 
 ## Project Overview
@@ -48,6 +49,13 @@ A derived field (`rating_available`) was created to distinguish between rated an
 ---
 
 ## Methodology
+
+## Tools Used
+
+- **Python (Pandas)** — data cleaning and preprocessing  
+- **MySQL** — structured data analysis and aggregation  
+- **Tableau** — data visualization and dashboard development  
+- **Git & GitHub** — version control and project organization  
 
 ### Data Cleaning (Python)
 - Selected relevant columns from raw dataset  
@@ -97,22 +105,26 @@ A derived field (`rating_available`) was created to distinguish between rated an
 ## Tableau Dashboards
 
 ### Dashboard 1 — Rating Coverage Gap
-- Shows overall rating availability  
-- Highlights differences across hospital types  
+
+![Rating Coverage Dashboard](visuals/dashboard_1_rating_coverage.png)
+
+*Rating coverage varies significantly across hospital types, with several categories showing no reported ratings.*
 
 ---
 
 ### Dashboard 2 — Emergency Service Access
-- Core insight: comparison between rated and unrated hospitals  
-- Additional breakdown by ownership and hospital type  
+
+![Emergency Access Dashboard](visuals/dashboard_2_emergency_access.png)
+
+*Unrated hospitals are substantially less likely to provide emergency services compared to rated hospitals.*
 
 ---
 
 ### Dashboard 3 — Geographic Variation
-- State-level emergency-service availability  
-- Provides supporting context to national patterns  
 
----
+![Geographic Variation Dashboard](visuals/dashboard_3_geographic_variation.png)
+
+*Emergency-service availability varies across states, though differences should be interpreted cautiously due to varying hospital counts.*
 
 ## Repository Structure
 
@@ -141,7 +153,17 @@ outputs/
 ├── q10_weakest_emergency_segments.csv
 
 visuals/
-├── dashboard_screenshots/
+├── dashboard_1_rating_coverage.png
+├── dashboard_2_emergency_access.png
+├── dashboard_3_geographic_variation.png
+
+notebooks/
+├── data_cleaning.ipynb
+
+src/
+├── __init__.py
+├── config.py
+├── export_to_mysql.py
 
 
 ---
