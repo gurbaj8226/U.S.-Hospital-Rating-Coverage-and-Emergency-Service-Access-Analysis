@@ -6,6 +6,11 @@ Rather than ranking hospital quality, this project focuses on **where ratings ar
 
 Tableau Link: https://public.tableau.com/app/profile/gurbaj.singh6229/viz/U_S_HospitalRatingCoverageandEmergencyServiceAccessAnalysis/RatingCoverageGap#1
 ---
+## Notebook Access
+
+GitHub may occasionally fail to render `.ipynb` files correctly. Use the nbviewer links below for reliable notebook viewing.
+
+1. [Data Cleaning](https://nbviewer.org/github/gurbaj8226/U.S.-Hospital-Rating-Coverage-and-Emergency-Service-Access-Analysis/blob/main/notebook/cleaning.ipynb)
 
 ## Project Overview
 
